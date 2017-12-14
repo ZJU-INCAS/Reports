@@ -11,5 +11,5 @@
 
 Eclipse a bitcoin node by filling the node with attacker's **massive IPs**.So that the message exchange of the target node is controlled by attacker.Attacker can then **perform double-spending attack** or even eclipse the bitcoin system.
 
-Also introduct **Bitcoin‘s P2P network**.
+Also introduce **Bitcoin‘s P2P network**.
 
