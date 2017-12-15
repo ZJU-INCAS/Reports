@@ -3,7 +3,7 @@
 Please upload your **slides** and a **introduction(Chinese or English)** of your presentation **in advance**,
 such as **conference, title, abstract**，which can be written in the form of [markdown](http://sspai.com/25137). Please add your title in the agenda.
 
-**Location**： Caoguangbiao-201 
+**Location**： 曹光彪主楼-201 
 
 **Time**: 13:45  Welcome to attend the seminar!
 
