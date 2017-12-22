@@ -10,7 +10,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |      |    Date    |   Speaker   |                  Title                   |
 | ---- | :--------: | :---------: | :--------------------------------------: |
 | 1    | 2017.12.15 | 卢令令<br>薛 伟  | Eclipse Attakcs on Bitcoin's Peer-to-Peer Network <br>Information Sharing for Supply Chain Management based on Block Chain Technology |
-| 2    | 2017.12.22 | 何见听<br>刘丁豪  | Algorand: Scaling Byzantine Agreements for Cryptocurrencies <br>                   |
+| 2    | 2017.12.22 | 何见听<br>刘丁豪  | Algorand: Scaling Byzantine Agreements for Cryptocurrencies <br> Town Crier: An Authenticated Data Feed for Smart Contracts |
 | 3    | 2017.12.29 | 倪文涛 <br>马 宁 |                   <br>                   |
 | 4    |  2018.1.5  | 卢政男<br> 曾子轩 |                   <br>                   |
 | 5    | 2018.1.12  | 叶靖琛<br> 李柯  |                   <br>                   |
