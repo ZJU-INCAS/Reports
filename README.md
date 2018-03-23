@@ -15,4 +15,4 @@ such as **conference, title, abstract**，which can be written in the form of [m
 | 4    |  2018.1.5  | 卢政男<br> 曾子轩 |                   <br>                   |
 | 5    | 2018.3.16  | 张岱<br> 叶靖琛  |       BIDaaS-Blockchain Based ID As a Service            <br>   Bitcoin-NG: A Scalable Blockchain Protocol                |
 | 6    | 2018.3.23  | 卢令令<br>   |      Hijacking Bitcoin：Routing Attacks on Cryptocurrencies   <br>                   |
-| 7    | 2018.3.30  | 何见听<br>刘丁豪  |                   <br>                   |
+| 7    | 2018.3.30  | 李柯  |                   <br>                   |
