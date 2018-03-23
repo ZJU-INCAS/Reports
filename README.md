@@ -15,7 +15,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 | 4    |  2018.1.5  | 卢政男<br> 曾子轩 |                   <br>                   |
 | 5    | 2018.3.16  | 张岱<br> 叶靖琛  |       BIDaaS-Blockchain Based ID As a Service            <br>   Bitcoin-NG: A Scalable Blockchain Protocol                |
 | 6    | 2018.3.23  | 卢令令<br>   |      Hijacking Bitcoin：Routing Attacks on Cryptocurrencies   <br>                   |
-| 7    | 2018.3.30  | 李珂  |                  TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub <br>                   |
+| 7    | 2018.3.30  | 李珂  |                  TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub                   |
 | 8    | 2018.4.13  |   |                   <br>                   |
 | 9    | 2018.4.20  |   |                   <br>                   |
 | 10   | 2018.4.27  |   |                   <br>                   |
