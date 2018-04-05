@@ -18,6 +18,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 | 7    | 2018.3.30  | 李珂<br>   |      TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub     |
 <<<<<<< HEAD
 | 8    | 2018.4.13  |  田子珺 |      Hyperledger Fabric : A Distributed Operating System for Permissioned Blockchains             <br>                   |
+=======
+| 8    | 2018.4.13  |  田子珺 |       Hyperledger Fabric : A Distributed Operating System for Permissioned Blockchains            <br>                   |
 >>>>>>> 90a2b96a516c2679dc3ae895633ca47f60f5ee72
 | 9    | 2018.4.20  |   |                   <br>                   |
 | 10   | 2018.4.27  |   |                   <br>                   |
