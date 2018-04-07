@@ -5,7 +5,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 
 **Location**： 曹光彪主楼-201会议室
 
-**Time**: 16:30  Welcome to attend the seminar!
+**Time**: 15:00  Welcome to attend the seminar!
 
 |      |    Date    |   Speaker   |                  Title                   |
 | ---- | :--------: | :---------: | :--------------------------------------: |
