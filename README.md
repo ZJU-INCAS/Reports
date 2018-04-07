@@ -16,6 +16,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 | 5    | 2018.3.16  | 张岱<br> 叶靖琛  |       BIDaaS-Blockchain Based ID As a Service            <br>   Bitcoin-NG: A Scalable Blockchain Protocol                |
 | 6    | 2018.3.23  | 卢令令<br>   |      Hijacking Bitcoin：Routing Attacks on Cryptocurrencies   <br>                   |
 | 7    | 2018.3.30  | 李珂<br>   |      TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub     |
-| 8    | 2018.4.20  |田子珺 |       Hyperledger Fabric : A Distributed Operating System for Permissioned Blockchains <br>                   |
-| 9   | 2018.4.27  |   |                   <br>                   |
-| 10   | 2018.5.4  |   |                   <br>                   |
+| 8    | 2018.4.13  |田子珺 |       Hyperledger Fabric : A Distributed Operating System for Permissioned Blockchains <br>                 |
+| 9   | 2018.4.20  | |       <br>                   |
+| 10   | 2018.4.27  |   |                   <br>                   |
+| 11   | 2018.5.4  |   |                   <br>                   |
