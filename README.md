@@ -18,5 +18,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 | 7    | 2018.3.30  | 李珂<br>   |      TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub     |
 | 8    | 2018.4.13  |田子珺<br>刘丁豪 |       Hyperledger Fabric : A Distributed Operating System for Permissioned Blockchains <br>   Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge              |
 | 9   | 2018.4.20  | 张杰 |      <br>                   |
-| 10   | 2018.4.27  |   |                   <br>                   |
-| 11   | 2018.5.4  |   |                   <br>                   |
+| 10   | 2018.5.4  |  姚璐 |                   <br>                   |
+| 11   | 2018.5.11  | 虚拟机调度组  |                   <br>                   |
+| 12   | 2018.5.18  | 隐私保护组  |                   <br>                   |
+| 13   | 2018.5.25  | 智能合约编辑器组  |                   <br>                   |
