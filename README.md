@@ -3,9 +3,9 @@
 Please upload your **slides** and a **introduction(Chinese or English)** of your presentation **in advance**,
 such as **conference, title, abstract**，which can be written in the form of [markdown](http://sspai.com/25137). Please add your title in the agenda.
 
-**Location**： 曹光彪主楼-201会议室
+**Location**： 曹光彪主楼-214会议室
 
-**Time**: 15:00  Welcome to attend the seminar!
+**Time**: 14:00  Welcome to attend the seminar!
 
 |      |    Date    |   Speaker   |                  Title                   |
 | ---- | :--------: | :---------: | :--------------------------------------: |
@@ -19,6 +19,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 | 8    | 2018.4.13  |田子珺<br>刘丁豪 |       Hyperledger Fabric : A Distributed Operating System for Permissioned Blockchains <br>   Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge              |
 | 9   | 2018.4.20  | 张杰 |      <br>                   |
 | 10   | 2018.5.4  |  姚璐 |    Decentralizing Privacy: Using Blockchain to Protect Personal Data               <br>                   |
-| 11   | 2018.5.11  | 姜金池  |                   <br>                   |
-| 12   | 2018.5.18  | 隐私保护组  |                   <br>                   |
-| 13   | 2018.5.25  | 智能合约编辑器组  |                   <br>                   |
+| 11   | 2018.5.18  | 姜金池  |                   <br>                   |
+| 12   | 2018.5.25 | 隐私保护组  |                   <br>                   |
+| 13   | 2018.6.1  | 智能合约编辑器组  |                   <br>                   |
+| 14   | 2018.6.8  | 教育教育1组  |                   <br>                   |
