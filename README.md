@@ -20,6 +20,6 @@ such as **conference, title, abstract**，which can be written in the form of [m
 | 9   | 2018.4.20  | 张杰 |      <br>                   |
 | 10   | 2018.5.4  |  姚璐 |    Decentralizing Privacy: Using Blockchain to Protect Personal Data               <br>                   |
 | 11   | 2018.5.18  | 姜金池  |                   <br>                   |
-| 12   | 2018.5.25 | 隐私保护组  |                   <br>                   |
+| 12   | 2018.5.25 | 马润杰  |                   <br>                   |
 | 13   | 2018.6.1  | 智能合约编辑器组  |                   <br>                   |
 | 14   | 2018.6.8  | 数字教育1组  |                   <br>                   |
