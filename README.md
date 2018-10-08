@@ -3,9 +3,9 @@
 Please upload your **slides** and a **introduction(Chinese or English)** of your presentation **in advance**,
 such as **conference, title, abstract**，which can be written in the form of [markdown](http://sspai.com/25137). Please add your title in the agenda.
 
-**Location**： 曹光彪主楼-201会议室
+**Location**： 则通楼104
 
-**Time**: 14:00  Welcome to attend the seminar!
+**Time**: 14:30  Welcome to attend the seminar!
 
 |      |    Date    |   Speaker   |                  Title                   |
 | ---- | :--------: | :---------: | :--------------------------------------: |
