@@ -20,7 +20,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 | 9   | 2018.4.20  | 张杰（共识算法组）|                        |
 | 10   | 2018.5.4  |  姚璐 （数字教育2组）|    Decentralizing Privacy: Using Blockchain to Protect Personal Data|                 
 | 11   | 2018.5.18  | 姜金池 （虚拟机调度组） |                                    |
-| 12   | 2018.5.25 | 马润杰（隐私保护组）  |                                      |
+| 12   | 2018.5.25 | 马润杰（隐私保护组）  |   Frassetto et al. - 2017 - JITGuard Hardening Just-in-time Compilers with SGX     |
 | 13   | 2018.6.15  | 徐霄雯 （智能合约编辑器组） |                                 |
 | 14   | 2018.6.22  | 沈子矜（数字教育1组） |                                 |
 | 15   | 2018.10.12  | 姜增凯 （共识算法组）<br> 黄诤杰 |                   <br>                   |
