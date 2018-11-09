@@ -26,7 +26,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 | 15   | 2018.10.12  | 姜增凯 （共识算法组）<br> 黄诤杰 |                   <br>CCS2016: Making smart contracts smarter                   |
 | 16   | 2018.10.19  | 卢令令<br>郑镇宇 （虚拟机调度组）|       USENIX2017：Ensuring Authorized Updates in Multi-user Database-Backed Application   <br>                   |
 | 17   | 2018.10.26  |  史吉喆 （隐私保护组）<br> 李钰宇 （智能合约编辑器组）|                   <br>                   |
-| 18   | 2018.11.2  |  冯行 （数字教育1组）<br> 陆天驰 （共识算法组）|                   <br>                   |
+| 18   | 2018.11.23  |  冯行 （数字教育1组）<br> 陆天驰 （共识算法组）|                   <br>                   |
 | 19   | 2018.11.9  |   叶健杰 （数字教育2组）<br> 田津榕 （虚拟机调度组）|                   <br>                   |
 | 20   | 2018.11.16  |  范俊松 （隐私保护组）<br>  付傅 （智能合约编辑器组）|                   <br>                   |
 | 21   | 2018.11.23  |  周心怡 （数字教育2组） <br> 何见听|                   <br>                   |
