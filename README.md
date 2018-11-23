@@ -18,14 +18,14 @@ such as **conference, title, abstract**，which can be written in the form of [m
 | 7    | 2018.3.30  | 李珂<br>   |      TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub     |
 | 8    | 2018.4.13  |田子珺（数字教育1组）<br>刘丁豪 |       Hyperledger Fabric : A Distributed Operating System for Permissioned Blockchains <br>   Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge              |
 | 9   | 2018.4.20  | 张杰（共识算法组）|                        |
-| 10   | 2018.5.4  |  姚璐 （数字教育2组）|    Decentralizing Privacy: Using Blockchain to Protect Personal Data|                 
+| 10   | 2018.5.4  |  姚璐 （数字教育2组）|    Decentralizing Privacy: Using Blockchain to Protect Personal Data|
 | 11   | 2018.5.18  | 姜金池 （虚拟机调度组） |                                    |
 | 12   | 2018.5.25 | 马润杰（隐私保护组）  |   Frassetto et al. - 2017 - JITGuard Hardening Just-in-time Compilers with SGX     |
 | 13   | 2018.6.15  | 徐霄雯 （智能合约编辑器组） |                                 |
 | 14   | 2018.6.22  | 沈子矜（数字教育1组） |                                 |
 | 15   | 2018.10.12  | 姜增凯 （共识算法组）<br> 黄诤杰 |                   <br>CCS2016: Making smart contracts smarter                   |
 | 16   | 2018.10.19  | 卢令令<br>郑镇宇 （虚拟机调度组）|       USENIX2017：Ensuring Authorized Updates in Multi-user Database-Backed Application   <br>                   |
-| 17   | 2018.10.26  |  史吉喆 （隐私保护组）<br> 李钰宇 （智能合约编辑器组）|                   <br>                   |
+| 17   | 2018.10.26  | 史吉喆 （隐私保护组）<br> 李珏宇 （智能合约编辑器组） |                   <br>Practical Security Analysis of Smart Contracts                   |
 | 18   | 2018.11.23  |  冯行 （数字教育1组）<br> 陆天驰 （共识算法组）|                   <br>                   |
 | 19   | 2018.11.9  |   叶健杰 （数字教育2组）<br> 田津榕 （虚拟机调度组）|                   <br>                   |
 | 20   | 2018.11.16  |  范俊松 （隐私保护组）<br>  付傅 （智能合约编辑器组）|                   <br>                   |
