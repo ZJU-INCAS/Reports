@@ -30,7 +30,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 | 19   | 2018.11.9  |   叶健杰 （数字教育2组）<br>|                   <br>                   |
 | 20   | 2018.12.14  |  冯行 （数字教育1组）<br> 田津榕 （虚拟机调度组）|                   <br>                   |
 | 21   | 2018.12.21  |  <br>  付傅 （智能合约编辑器组）|                   <br>                   |
-| 22   | 2018.12.28  |  范俊松 （隐私保护组） <br> 刘丁豪 |                   <br>                   |
+| 22   | 2018.12.28  |  范俊松 （隐私保护组） <br> 刘丁豪 |                   <br>       X-Search: Revisiting Private Web Search using Intel SGX            |
 | 23   | 2019.1.4  |  何见听 <br>卢令令 | Erays: Reverse Engineering Ethereum's Opaque Smart Contracts <br> SIGMOD 2017：BLOCKBENCH: A Framework for Analyzing Private Blockchains   |
 | 24   | Next Semester  |  田子珺（数字教育1组）<br>张杰（共识算法组）<br> 姚璐 （数字教育2组） |                   <br>                   |
 | 25   | Next Semester  |  姜金池 （虚拟机调度组） <br> 马润杰（隐私保护组） |                   <br>                   |
